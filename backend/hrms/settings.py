@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-2_nq+p8e%5kg#)c&$-y#3d533pj$4opz#zjskv0ntqi^l^@1wj
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["hrms-for-job-3.onrender.com", "localhost", "127.0.0.1"]
 
 
 # Application definition
